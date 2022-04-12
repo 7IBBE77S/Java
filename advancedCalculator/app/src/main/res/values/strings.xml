@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"></string>
+<!--    <string-array name="from">-->
+<!--<item name="testfrom">testfrom</item>-->
+<!--    </string-array>-->
+<!--    <string-array name="to">-->
+<!--        <item name="testto">testto</item>-->
+<!--    </string-array>-->
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="Calc">Calculator</string>
+    <string name="title">Calculator</string>
+    <string name="title2">Conversions</string>
+    <string name="title3">History</string>
+    <string name="title4">About</string>
+    <string name="Loremipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+        labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo. Lacus vel facilisis volutpat est
+        velit. Mi tempus imperdiet nulla malesuada pellentesque elit eget gravida cum. Quis varius quam quisque id diam vel quam elementum.</string>
+   <string name="aboutabout">This app was created by Nicholas Tibbetts, it contains a standard/scientific calculator
+       and some of the most important conversions one might need to make.</string>
+    <string name="CLEAR">CLEAR</string>
+    <string name="BACK">BACK</string>
+    <string name="A">+</string>
+    <string name="S">-</string>
+    <string name="M">*</string>
+    <string name="D">/</string>
+    <string name="Modulus">%</string>
+    <string name="SQR">x²</string>
+    <string name="ROOT">√</string>
+    <string name="NEG">±</string>
+    <string name="TAN">TAN</string>
+    <string name="SIN">SIN</string>
+    <string name="COS">COS</string>
+    <string name="PIE">π</string>
+    <string name="RANDOM">RANDOM</string>
+    <string name="ONE">1</string>
+    <string name="TWO">2</string>
+    <string name="THREE">3</string>
+    <string name="FOUR">4</string>
+    <string name="FIVE">5</string>
+    <string name="SIX">6</string>
+    <string name="SEVEN">7</string>
+    <string name="EIGHT">8</string>
+    <string name="NINE">9</string>
+    <string name="ZERO">0</string>
+    <string name="DECIMAL">.</string>
+    <string name="EQUAL">=</string>
+</resources>

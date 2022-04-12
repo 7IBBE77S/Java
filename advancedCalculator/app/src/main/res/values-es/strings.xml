@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"></string>
+<!--    <string-array name="from">-->
+<!--        <item>Año humano</item>-->
+<!--    </string-array>-->
+    <string name="from">Desde</string>
+    <string name="to">A</string>
+    <string name="Calc">Calculadora</string>
+    <string name="title">Calculadora</string>
+    <string name="title2">Conversiones</string>
+    <string name="title3">Historia</string>
+    <string name="title4">Acerca de</string>
+    <string name="Loremipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed tempor y vitalidad, por lo que el trabajo y dolor, algunas cosas importantes que hacer eiusmod. Entero ultricies una sonrisa ahora y conveniencia. Apple quiere un fin de semana o caro. Mi tiempo para financiar el desarrollo de baterías
+        con pellentesque. Cada uno variado que el diámetro que sea elemento.</string>
+    <string name="aboutabout">Esta aplicación fue creada por Nicholas Tibbetts, contiene una calculadora estándar / científica
+y algunas de las conversiones más importantes que uno podría necesitar hacer.</string>
+    <string name="CLEAR">CLARO</string>
+    <string name="BACK">ESPALDA</string>
+    <string name="RANDOM">ALEATORIA</string>
+    <string name="A">+</string>
+    <string name="S">-</string>
+    <string name="M">*</string>
+    <string name="D">/</string>
+    <string name="Modulus">%</string>
+    <string name="SQR">x²</string>
+    <string name="ROOT">√</string>
+    <string name="NEG">±</string>
+    <string name="TAN">TAN</string>
+    <string name="SIN">SIN</string>
+    <string name="COS">COS</string>
+    <string name="PIE">π</string>
+    <string name="ONE">1</string>
+    <string name="TWO">2</string>
+    <string name="THREE">3</string>
+    <string name="FOUR">4</string>
+    <string name="FIVE">5</string>
+    <string name="SIX">6</string>
+    <string name="SEVEN">7</string>
+    <string name="EIGHT">8</string>
+    <string name="NINE">9</string>
+    <string name="ZERO">0</string>
+    <string name="DECIMAL">.</string>
+    <string name="EQUAL">=</string>
+</resources>
